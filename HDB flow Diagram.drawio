@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T11:56:15.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="GGMTVyE1XkVYESnZVuI6" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T11:57:17.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ZMGs2DEHNLKU4nlYBF5q" version="14.2.9" type="github" pages="2">
   <diagram id="D6uqkSb7xdpxSyw-rZsQ" name="Page-1">
     <mxGraphModel dx="1022" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -287,6 +287,9 @@
         </mxCell>
         <mxCell id="ZeGrJY7Z2j0msAvjt_Hn-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/688/1*32ofaVnMm3UiK9EPbPyWDg.png;" vertex="1" parent="ShQxeRiMfONJ3Y6G5mtZ-1">
           <mxGeometry x="371.88" y="254.99999999999997" width="51.25" height="48.99" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeGrJY7Z2j0msAvjt_Hn-28" value="Machine Learning /Auto AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ShQxeRiMfONJ3Y6G5mtZ-1">
+          <mxGeometry x="322.5" y="326.67" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
